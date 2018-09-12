@@ -1,5 +1,17 @@
-.grid-x
-  .row
+.wrapper
+
+  .header
+    %ul.list
+      %li.list-item
+        %a.text-grey-light.cursor-not-allowed{href: "index.html"} Home
+      %li.list-item
+        %a.text-grey-light.cursor-not-allowed{href: "projects.html"} Projects
+    
+    
+  .footer   
+
+  .grid-x
+    .row
     .row-padding
       .row.small-up-2.medium-up-3.large-up-4
         - data.about.each do |about|
