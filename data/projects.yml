@@ -1,5 +1,16 @@
 - name: Projects
-  description: ATM
+  description: Some text
+  # link: https://MiriamSal.github.io/ 
+
+- name: FizzBuzz
+  description: Childrens game to learn division
+
+- name: ATM
+  description: Some text
+
+- name: BMI Calculator
+  description: Some text
+
  
 
 
