@@ -1,17 +1,21 @@
-- name: Projects
-  description: Some text
-  # link: https://MiriamSal.github.io/ 
+- name: My Projects
+  link: https://MiriamSal.github.io/ 
 
 - name: FizzBuzz
-  description: Childrens game to learn division
+  description: Childrens game to learn division, test driven JavaScript
+
+- name: Address Book
+  description: Test driven project, JavaScript 
+
+- name: Library
+  description: Ruby
 
 - name: ATM
-  description: Some text
+  description: Simple simulator, Ruby
 
 - name: BMI Calculator
-  description: Some text
+  description: Test driven project built in JavaScript 
 
- 
 
 
   

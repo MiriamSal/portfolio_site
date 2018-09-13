@@ -9,14 +9,12 @@
     
     
   .footer   
+    - data.about.each do |about|
+      %h4= about[:title]
+      %p= about[:description]
+      %link= about[:link]
 
-  .grid-x
-    .row
-    .row-padding
-      .row.small-up-2.medium-up-3.large-up-4
-        - data.about.each do |about|
-          %h4= about[:title]
-          %p= about[:description]
+    
 
 
        
