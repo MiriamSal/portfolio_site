@@ -10,7 +10,13 @@
   title: Indoor sales
   description: 2011-2015
 
-- work: Florist
-  title: Blomsterboden
+- work: Blomsterboden
+  title: Florist
   description: 2009-2010
+
+- education: Craft Academy
+  description: Full stack system developer
+
+- education: Försvarsmakten
+  description: GSU
 
