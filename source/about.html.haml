@@ -3,14 +3,14 @@
   .header
     %ul.list
       %li.list-item
-        %a.text-grey-light.cursor-not-allowed{href: "index.html"} Home
+        %a.text-grey.cursor-not-allowed{href: "index.html"} Home
       %li.list-item
-        %a.text-grey-light.cursor-not-allowed{href: "projects.html"} Projects
+        %a.text-grey.cursor-not-allowed{href: "projects.html"} Projects
     
     
   .footer   
     - data.about.each do |about|
-      %h4= about[:title]
+      %h3= about[:title]
       %p= about[:description]
       %link= about[:link]
 
