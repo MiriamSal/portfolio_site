@@ -1,5 +1,4 @@
 - name: My Projects
-  link: https://MiriamSal.github.io/ 
 
 - name: FizzBuzz
   description: Childrens game to learn division, test driven JavaScript
