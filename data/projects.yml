@@ -1,10 +1,10 @@
 - name: My Projects
 
 - name: FizzBuzz
-  description: Childrens game to learn division, test driven JavaScript
+  description: Childrens game to learn division, JavaScript
 
 - name: Address Book
-  description: Test driven project, JavaScript 
+  description: JavaScript 
 
 - name: Library
   description: Ruby
@@ -13,7 +13,7 @@
   description: Simple simulator, Ruby
 
 - name: BMI Calculator
-  description: Test driven project built in JavaScript 
+  description: JavaScript 
 
 
 
