@@ -1,6 +1,10 @@
 
 - name: About 
-  title: Student at Craft Academy
+  title: Currently a student at Craft Academy
+  description: The 12 week program is based on building web applications using Test-Driven Development.
+
+- name: About 
+  title: 
   description: Visit me at
 
 - link: https://github.com/MiriamSal

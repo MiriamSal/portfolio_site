@@ -7,16 +7,12 @@
       %li.list-item
         %a.text-grey.cursor-not-allowed{href: "about.html"} About
       %li.list-item
-        %a.text-grey{href: "cv.html"} Cv
+        %a.text-grey{href: "projects.html"} Projects
     
   .footer
-    -data.projects.each do |project|
+    -data.cv.each do |cv|
       .column
-        %h7= project[:name]
-        %h6= project[:description]
-        %link= project [:link]
-
-
-
-
-       
+        %h7= cv[:work]
+        %h7= cv[:education]
+        %h6= cv[:title]
+        
