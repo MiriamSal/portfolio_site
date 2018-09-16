@@ -1,0 +1,18 @@
+.wrapper
+
+  .header
+    %ul.list
+      %li.list-item
+        %a.text-grey.cursor-not-allowed{href: "index.html"} Home
+      %li.list-item
+        %a.text-grey.cursor-not-allowed{href: "about.html"} About
+      %li.list-item
+        %a.text-grey{href: "projects.html"} Projects
+    
+  .footer
+    -data.cv.each do |cv|
+      .column
+        %h7= cv[:work]
+        %h7= cv[:education]
+        %h6= cv[:title]
+        
