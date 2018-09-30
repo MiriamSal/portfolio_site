@@ -1,7 +1,16 @@
-- name: My Projects
+- name: My Projects during Craft Academy camp
 
-- name: FizzBuzz
-  description: Childrens game to learn division, JavaScript
+- name: Slowfood
+  description: Ruby
+
+- name: Article site
+  description:  Ruby
+
+- name: Mailboxer
+  description: Ruby
+
+- name: FizzBuzz, a childrens game to learn division. 
+  description: JavaScript
 
 - name: Address Book
   description: JavaScript 
