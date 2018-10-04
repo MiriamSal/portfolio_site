@@ -1,14 +1,14 @@
 
 - name: About 
-  title: Some of my passions are fishing, painting, karate and programming.
-  description: Im currently a student at Craft Academy.
+  title: Currently a student at Craft Academy. 
+  description: Some of my passions are fishing, painting, karate and programming.
 
 - name: About 
   title: 
   description: Visit me at
 
-- link: https://github.com/MiriamSal
+- link: GitHub
 
-- link: www.linkedin.com/in/miriam-s-92891589
+- link: LinkedIn
 
-- link: https://www.codewars.com/users/TrasselMirre
+- link: CodeWars

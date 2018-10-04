@@ -11,9 +11,11 @@
        
   .footer   
     - data.about.each do |about|
-      %h3= about[:title]
+      %p= about[:title]
       %p= about[:description]
       %link= about[:link]
+    
+
 
     
 
