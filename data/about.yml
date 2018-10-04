@@ -1,6 +1,10 @@
 
 - name: About 
-  title: Student at Craft Academy
+  title: Some of my passions are fishing, painting, karate and programming.
+  description: Im currently a student at Craft Academy.
+
+- name: About 
+  title: 
   description: Visit me at
 
 - link: GitHub

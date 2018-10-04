@@ -1,10 +1,19 @@
-- name: My Projects
+- name: My Projects during Craft Academy camp
 
-- name: FizzBuzz
-  description: Childrens game to learn division, test driven JavaScript
+- name: Slowfood
+  description: Ruby
+
+- name: Article site
+  description:  Ruby
+
+- name: Mailboxer
+  description: Ruby
+
+- name: FizzBuzz, a childrens game to learn division. 
+  description: JavaScript
 
 - name: Address Book
-  description: Test driven project, JavaScript 
+  description: JavaScript 
 
 - name: Library
   description: Ruby
@@ -13,7 +22,7 @@
   description: Simple simulator, Ruby
 
 - name: BMI Calculator
-  description: Test driven project built in JavaScript 
+  description: JavaScript 
 
 
 
