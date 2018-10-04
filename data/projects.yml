@@ -1,29 +1,20 @@
 - name: My Projects during Craft Academy camp
 
-- name: Slowfood
-  description: Ruby
+- name: Slowfood, Ruby
+  
+- name: Article site, Ruby
+  
+- name: Mailboxer,Ruby
 
-- name: Article site
-  description:  Ruby
+- name: FizzBuzz, a childrens game to learn division, JavaScript
 
-- name: Mailboxer
-  description: Ruby
+- name: Address Book, JavaScript 
+ 
+- name: Library, Ruby
 
-- name: FizzBuzz, a childrens game to learn division. 
-  description: JavaScript
+- name: ATM, simple simulator, Ruby
 
-- name: Address Book
-  description: JavaScript 
-
-- name: Library
-  description: Ruby
-
-- name: ATM
-  description: Simple simulator, Ruby
-
-- name: BMI Calculator
-  description: JavaScript 
-
-
+- name: BMI Calculator, JavaScript 
+  
 
   
